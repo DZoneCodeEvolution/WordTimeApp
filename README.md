@@ -1,6 +1,6 @@
-# wordtime_app
+# World Time App
 
-A new Flutter application.
+This is Simple World Time Application.
 
 ## Getting Started
 
